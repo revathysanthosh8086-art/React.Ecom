@@ -10,7 +10,7 @@ import AdminNavbar from './pages/AdminNavbar';
 import UserNavbar from './pages/UserNavbar';
 import Users from './pages/Users';
 import AdminProduct from './pages/AdminProduct';
-import UserProduct from './pages/Userproduct';
+import UserProduct from './pages/UserProduct';
 import Cart from './pages/Cart';
 import Orders from './pages/Orders';
 import Protect from './pages/Protect';
